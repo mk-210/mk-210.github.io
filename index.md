@@ -8,3 +8,5 @@ So who is them:
 * The initially irascible and slightly sinister Doctor quickly mellowed into a more compassionate figure
 * He was eventually revealed to be a Time Lord
 
+As the doctor says:
+>Rule 1: The Doctor lies.
